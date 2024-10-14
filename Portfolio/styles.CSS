@@ -1,0 +1,16 @@
+#ul{
+    display: flex;
+
+    justify-content: space-around;
+
+    padding-left: 0;
+    width: 100%;
+    background-color: white;
+}
+
+#ul h2{
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 5px;
+}
